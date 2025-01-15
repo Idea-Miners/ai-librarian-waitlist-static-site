@@ -12,7 +12,7 @@ This repository is a simple static page that is used to collect emails for a wai
 
 ## Live
 
-https://idea-miners.github.io/ai-librarian-waitlist-static-site/index.html
+https://idea-miners.github.io/ai-librarian-waitlist-static-site/
 
 
 ## Acknowledgements
