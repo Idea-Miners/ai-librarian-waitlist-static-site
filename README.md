@@ -7,22 +7,12 @@ This repository is a simple static page that is used to collect emails for a wai
 - [Idea Miners Waitlist Page](#idea-miners-waitlist-page)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+  - [Live](#live)
   - [Acknowledgements](#acknowledgements)
 
-## Installation
+## Live
 
-
-## Usage
-
-
-## Contributing
-
-
-## License
+https://idea-miners.github.io/ai-librarian-waitlist-static-site/index.html
 
 
 ## Acknowledgements
